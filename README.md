@@ -4,7 +4,7 @@
 ## I'm a Developer, Husband
 
 - 🔭 I’m currently working on many things
-- 🌱 I’m currently learning every thing [Symfony Casts][sfcasts],[Udemy][udemy],[ES6]
+- 🌱 I’m currently learning every thing [Symfony Casts][sfcasts],[Udemy][udemy],ES6
 - 🌱 I like developing webapps in Symfony, React, React Native, Angular 2+
 - 🥅 2020 Goals: Learn Python and Django
 - ⚡ Fun fact: ...
