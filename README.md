@@ -32,6 +32,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat&logo=heroku&logoColor=0769AD)
 ![GithubPages](https://img.shields.io/badge/-GithubPages-222222?style=flat&logo=github&logoColor=0769AD)
 [![Rocket Emoji Picker 😃](https://img.shields.io/badge/-EmoijiPicker-222222?style=flat)](http://matthewpalmer.net/rocket/)
+[![Visual Studio Code Theme - Cobalt2 by WesBos](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)]
 
 
-Cheers [Mbuso](https://github.com/alusru)
+Cheers [Mbuso]
