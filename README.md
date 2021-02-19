@@ -34,4 +34,4 @@
 [![Rocket Emoji Picker 😃](https://img.shields.io/badge/-EmoijiPicker-222222?style=flat)](http://matthewpalmer.net/rocket/)
 
 
-Cheers [Hlakaza](https://github.com/hlakaza)
+Cheers [Mbuso](https://github.com/alusru)
