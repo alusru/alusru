@@ -5,10 +5,6 @@
 - ☎️ Use the the links below to connect
 
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:collen.nkabinde@gmail.com)
-
-
-
 ##### Languages I use
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony)
@@ -19,10 +15,6 @@
 ![Styled Components](https://img.shields.io/badge/-StyledComponents-000000?style=flat&logo=styled-components)
 ![Material UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat&logo=material-ui)
 ![Ant Design](https://img.shields.io/badge/-AntDesign-E10098?style=for-the-badge&logo=antdesign)
-
-
-##### Some of the technologies I have worked with
-![Wordpress](https://img.shields.io/badge/-Wordpress-222222?style=flat&logo=wordpress&logoColor=0769AD)
 
 
 ##### Tools and Services i use
